@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
-# app.register_blueprint(user_auth_bp)
 
 # In-memory product store
 products = []
