@@ -1,1 +1,9 @@
+blinker
+click
 Flask
+flask-cors
+itsdangerous
+Jinja2
+loguru
+MarkupSafe
+Werkzeug
